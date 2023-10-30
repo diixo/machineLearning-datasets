@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.3)  7 APR 2023 23:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.3)  30 OCT 2023 19:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -258,7 +258,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--144
 [7] [8] (Report.aux) ) 
 Here is how much of TeX's memory you used:
  4982 strings out of 475385
- 79363 string characters out of 2774076
+ 79317 string characters out of 2774076
  608399 words of memory out of 3000000
  26358 multiletter control sequences out of 15000+600000
  474516 words of font info for 46 fonts, out of 8000000 for 9000
@@ -275,7 +275,7 @@ ic/amsfonts/cm/cmr12.pfb><C:/Users/Utilisateur/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Utilisateur/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Utilisateur/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Report.pdf (8 pages, 457551 bytes).
+Output written on Report.pdf (8 pages, 457313 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
